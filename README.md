@@ -28,3 +28,13 @@ Credits
 - Xtract - Audiotool Day-
 - 憂鬱 - Slow
 - 憂鬱 - Sun
+
+Screenshots
+-----------
+![SYSTEMVIEW](https://i.postimg.cc/yd6Tz7XD/1-systemview.png)
+
+![GAMELIST-1](https://i.postimg.cc/x8hGHMrm/2-gamelist-console.png)
+
+![GAMELIST-2](https://i.postimg.cc/1XfcfMdP/3-gamelist-handheld.png)
+
+![MENU](https://i.postimg.cc/9MxYmsJJ/4-menu.png)
