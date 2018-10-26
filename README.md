@@ -1,7 +1,7 @@
 Theme 'Emulga Nostalgia’ released by Emulga based from original 'recalbox-next’ theme
 For use with EmulationStation (http://www.emulationstation.org/)
 
-Enter into the immersive experience of Emulga Nostalgia. Beginning with an introductory video that represents a memory of the classic system boot (download in splashscreens). Navigate through your systems while listening to a selection of retrowave songs that’ll make you feel nostalgic. The background will remind you of being young, late at night in front of the television, playing until your mom tells you to go to bed! We chose system images only instead of company logos because it felt more real. The game list view is the equivalent of looking at an old crt television. The theme is fully compatible with any screens like CRT and smaller screens.
+Enter into the immersive experience of Emulga Nostalgia. Beginning with an introductory video that represents a memory of the classic system boot. Navigate through your systems while listening to a selection of retrowave songs that’ll make you feel nostalgic. The background will remind you of being young, late at night in front of the television, playing until your mom tells you to go to bed! We chose system images only instead of company logos because it felt more real. The game list view is the equivalent of looking at an old crt television. The theme is fully compatible with any screens like CRT and smaller screens.
 
 If you like what we do please consider donating -> https://emul.ga
 
