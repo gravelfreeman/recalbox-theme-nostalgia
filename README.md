@@ -5,22 +5,6 @@ Enter into the immersive experience of Emulga Nostalgia. Beginning with an intro
 
 If you like what we do please consider donating -> https://emul.ga
 
-Changelog
-=========
-
-V1.1
-
-- Added atari800, atari5200, daphne, intellivision, jaguar, pc98, pcfx, ports, saturn and to8 systems
-- Updated atari2600, atari7800, c64, mastersystem and odyssey2 systems
-
-V1.0
-
-- Added custom system view featuring system vectors
-- Added 18 retro wave music tracks
-- Added compatibility for CRT and small screens
-- Modified various xml files from original theme
-
-
 Credits
 =======
 - Emulga Nostalgia - FreemanQC
