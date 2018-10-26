@@ -6,7 +6,7 @@ Enter into the immersive experience of Emulga Nostalgia. Beginning with an intro
 If you like what we do please consider donating -> https://emul.ga
 
 Credits
-=======
+-------
 - Emulga Nostalgia - FreemanQC
 - System SVG - Recalbox Team
 
