@@ -5,4 +5,6 @@
 	<include subset="iconset" name="3-snes alt">./iconsets/snesalt.xml</include>
 	<include subset="iconset" name="4-xbox">./iconsets/xbox.xml</include>
 	<include subset="iconset" name="5-psx">./iconsets/psx.xml</include>	
+	<include subset="iconset" name="6-xbox one">./iconsets/xboxone.xml</include>
+	<include subset="iconset" name="7-arcade">./iconsets/arcade.xml</include>
 </theme>
