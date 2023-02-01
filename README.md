@@ -1,5 +1,3 @@
-![Emugla Logo](https://i.postimg.cc/dtTN6msD/github.png)
-
 Theme 'Emulga Nostalgia’ released by Emulga based from original 'recalbox-next’ theme
 For use with EmulationStation (http://www.emulationstation.org/)
 
@@ -7,7 +5,7 @@ Enter into the immersive experience of Emulga Nostalgia. Beginning with an intro
 
 Credits
 -------
-- Emulga Nostalgia - FreemanQC
+- Emulga Nostalgia - Freeman
 - System SVG - Recalbox Team
 
 - A.L.I.S.O.N - Space Echo
